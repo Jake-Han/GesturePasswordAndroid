@@ -1,0 +1,3 @@
+rootProject.name='FinalGesture'
+include ':app'
+include ':jakecustomgesture'
